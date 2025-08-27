@@ -15,6 +15,6 @@ engagement early and under budget
 
 
 ## Projects
--Predicting Concussion Severity and Risk Factors 
+-Predicting Concussion Severity and Risk Factors  
 -ER Cost Estimate Streamlit Chatbot
 
