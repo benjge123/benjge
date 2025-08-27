@@ -4,6 +4,7 @@ Triple Major: Data Science, Information Systems, Acccounting
 
 ### Work Experience
 Risk Specialist Intern @ Amazon
+
 Audit Analytics Intern @ Deloitte
 
 ### Projects
